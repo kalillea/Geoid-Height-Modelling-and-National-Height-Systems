@@ -37,7 +37,7 @@ Navigate to the `src` directory and run the desired scripts or notebooks:
 
 ```bash
 cd src
-python example_script.py
+python Assignment_2_TBA4236.py
 ```
 
 ## Contributions
