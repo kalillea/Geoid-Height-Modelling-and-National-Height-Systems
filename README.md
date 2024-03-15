@@ -6,9 +6,9 @@ This project focuses on the modelling of geoid heights and their applications in
 
 This project was developed in collaboration with:
 
-- Morten E.
-- Tobias A.
-- Peder U.
+- **Morten E.**, see [their profile](https://github.com/mortened)
+- **Tobias A.**, see [their profile](https://github.com/tiltobias)
+- **Peder U.**, see [their profile](https://github.com/pederundheim)
 
 ## Project Overview
 
