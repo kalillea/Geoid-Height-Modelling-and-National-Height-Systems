@@ -98,8 +98,8 @@ def compute_coefficients(A, F, weights):
     return X
 
 def main():
-    coordinates_file = "/Users/knutlilleaas/Documents/Assignment 2 Teoretisk Geomatikk/xy_coordinates.txt"
-    survey_data_file = "/Users/knutlilleaas/Documents/Assignment 2 Teoretisk Geomatikk/survey_data.txt"
+    coordinates_file = "data/xy_coordinates.txt"
+    survey_data_file = "data/survey_data.txt"
     
     coordinates = load_coordinates(coordinates_file)
     N = load_geoid_heights(survey_data_file)
